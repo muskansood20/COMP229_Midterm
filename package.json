@@ -1,6 +1,6 @@
 {
-  "name": "week-4",
-  "version": "0.0.0",
+  "name": "midterm_muskansood",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -17,5 +17,18 @@
     "mongoose": "^5.10.2",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "Mid Term Assignment: Muskan Sood",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskansood20/COMP229_Midterm.git"
+  },
+  "author": "Muskan Sood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muskansood20/COMP229_Midterm/issues"
+  },
+  "homepage": "https://github.com/muskansood20/COMP229_Midterm#readme"
 }
